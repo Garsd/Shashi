@@ -1,0 +1,18 @@
+#header {
+    height: 7800px;
+    width: 100%;
+    background-color: orange;
+    color: red;
+}
+.jpg {
+    display: flex;
+    flex-wrap: wrap;
+}
+.img {
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    background-image: url(deepak.jpg);
+    background-size: cover;
+    
+}
